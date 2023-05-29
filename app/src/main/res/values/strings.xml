@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReelBlock</string>
+    <string name="service_description">This is a description for my service.</string>
+</resources>
